@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin
+cd $HOME/Termux-Hack
+bash .hacked.sh
